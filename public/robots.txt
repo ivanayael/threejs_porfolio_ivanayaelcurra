@@ -1,0 +1,6 @@
+# Robots.txt para Portfolio Ivana Yael Currá
+User-agent: *
+Allow: /
+
+# Especifica la ruta de tu mapa del sitio
+Sitemap: https://ivanayaelcurra.com.ar/sitemap.xml
